@@ -8,4 +8,4 @@ Da bo knjižnica PyMata3 zaznala Arduino, je na Arduino IDE potrebno naložiti k
 Nato pa je z Arduino IDE potrebno na Arduino naložiti program (iz prej naloženih knjižnic) <b>FirmataPlus32u4</b>. <i>Morebitni "warning"-i niso pomembni. Važno je, da se program uspešno naloži na Arduino.</i>
 <br>
 <br>
-<b><u>POMEMBNO!<u></b> da PyMata3 v Python projektu zazna priključen Arduino, je najprej potrebno naložiti zgoraj omenjeni program. Šele potem se lahko dela v Python-u.
+<b><u>POMEMBNO!<u></b> Da PyMata3 v Python projektu zazna priključen Arduino, je najprej potrebno naložiti zgoraj omenjeni program. Šele potem se lahko dela v Python-u.
