@@ -1,5 +1,6 @@
 # Piezo-project-Python
- 
+Projekt je narejen v Python 3.6 <br>
+<br>
 glavni projekt je v: <b>Arduino/Python/Buzzer/make_wav_on_led.py</b> <br>
 Trenutno delovanje je prikazano na tej povezavi: https://drive.google.com/file/d/1ejvl6h9ShkUew9RzedjvKmLPhlpWiPF4/view?usp=sharing
 <br>
