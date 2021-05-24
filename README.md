@@ -11,7 +11,7 @@ Nato pa je z Arduino IDE potrebno na Arduino naložiti program (iz prej naložen
 <br>
 <b><u>POMEMBNO!</u></b> Da PyMata3 v Python projektu zazna priključen Arduino, je najprej potrebno naložiti zgoraj omenjeni program. Šele potem se lahko dela v Python-u.
 <br>
-## Povezave do knjižnic za zvok
+## Povezave do knjižnic za zvok in njihovih dokumentacij
 ### audio-to-midi
 https://github.com/NFJones/audio-to-midi <br>
 https://pypi.org/project/audio-to-midi/ <br>
