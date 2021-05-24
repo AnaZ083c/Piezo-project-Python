@@ -1,7 +1,7 @@
 # Piezo-project-Python
  
 glavni projekt je v: <b>Arduino/Python/Buzzer/make_wav_on_led.py</b> <br>
-Trenutno delovanje je prikazano na tej povezavi: https://drive.google.com/file/d/1GL5DzRuk3BnHux56PaxEqsTtYTlEAwlK/view?usp=sharing
+Trenutno delovanje je prikazano na tej povezavi: https://drive.google.com/file/d/1ejvl6h9ShkUew9RzedjvKmLPhlpWiPF4/view?usp=sharing
 <br>
 ## Priprava na delovanje knjižnice PyMata3
 Da bo knjižnica PyMata3 zaznala Arduino, je na Arduino IDE potrebno naložiti knjižnice (<b>libraries.zip</b>). <br>
